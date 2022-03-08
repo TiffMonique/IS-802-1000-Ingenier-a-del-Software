@@ -1,0 +1,39 @@
+- Los usuarios podrán calificar a cada vendedor, además de denunciarlos. ¿como hacer esta parte?
+Hacerlo lo mas sencillo, poner un boton y hacer una ventana emergente, check box, para identificar
+mejor. 
+
+
+- ¿como hacer los filtros de los deptos? 
+Hacerlo por medio de un list , para la parte grafica se podria usar una libreria (investigar), 
+filtraciones de deptos , por list. Que sea facil para el usuario identificar.
+resolver primero y luego ver si se usa el mapa.
+
+
+¿Registro es necesario en cualquier caso?
+- admin
+- vendedor/usuario. ¿de que forma separar los perfiles?
+hay dos parte de vista,  dos personas administrador, podemos usar filtro para el tipo de usuario.
+
+¿Puedan ver estadisticas?, poder ver denucias, agregar o quitar categorias.
+libreia para hacer graficos. elegir las estadisticas.
+
+
+- una forma para hacer el chat
+la idea es que se puedan guardar los mensajes. (investigar)
+
+
+A los usuarios registrados se les podrá enviar publicidad a su correo 
+personal de las categorías a las cuales estén suscritos. ¿De que forma?
+correo como pdf. ultimos 10 anuncios en los que se han publicado en la categoria.
+
+
+¿me debo suscribir a una categoria?
+si el usuario debe suscribirse a una categoria.
+
+
+Requerimientos:
+usuario login
+
+mockup. 6 de lo mas importante.
+registo, pagina, 
+
